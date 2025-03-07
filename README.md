@@ -1,5 +1,6 @@
 # Workers for Platforms Example Project
 
+
 - [Blog post](https://blog.cloudflare.com/workers-for-platforms/)
 - [Docs](https://developers.cloudflare.com/cloudflare-for-platforms/workers-for-platforms)
 - [Discord](https://discord.cloudflare.com/)
